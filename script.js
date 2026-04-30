@@ -686,4 +686,10 @@ document.getElementById('viewAllBtn')?.addEventListener('click', () => {
     openView(galleryView);
     renderGalleryView();
 });
+document.getElementById('viewToolsBtn')?.addEventListener('click', () => {
+    openView(document.getElementById('toolsView'));
+});
 
+document.getElementById('toolsBack')?.addEventListener('click', () => {
+    closeView(document.getElementById('toolsView'));
+});
