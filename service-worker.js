@@ -1,12 +1,12 @@
 const CACHE_NAME = 'felixjames-v1';
 const ASSETS = [
-  '/felix/',
-  '/felix/index.html',
-  '/felix/style.css',
-  '/felix/script.js',
-  '/felix/designs.json',
-  '/felix/icon-192.png',
-  '/felix/icon-512.png',
+  '/Felix.j/',
+  '/Felix.j/index.html',
+  '/Felix.j/style.css',
+  '/Felix.j/script.js',
+  '/Felix.j/designs.json',
+  '/Felix.j/icon-192.png',
+  '/Felix.j/icon-512.png',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
   'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap'
 ];
