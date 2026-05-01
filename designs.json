@@ -133,7 +133,18 @@
   },
   {
     "id": 12,
-    "title": "Flyer – Restaurant",
+    "title": "Flyer – Tree Nursery",
+    "category": "poster",
+    "year": "2025",
+    "description": "Vibrant promotional flyer for a Tree Nursery weekend special offer.",
+    "tools": ["CorelDRAW"],
+    "image": "designs/nursery design.jpg",
+    "icon": "fa-utensils",
+    "height": 290
+  }
+   {
+    "id": 12,
+    "title": "Flyer –  local restaurant",
     "category": "poster",
     "year": "2025",
     "description": "Vibrant promotional flyer for a local restaurant weekend special offer.",
@@ -142,4 +153,26 @@
     "icon": "fa-utensils",
     "height": 290
   }
+   {
+    "id": 3,
+    "title": "Instagram Campaign",
+    "category": "social",
+    "year": "2025",
+    "description": "9-post grid campaign for a fashion brand launch, maintaining consistent visual language.",
+    "tools": ["Illustrator", "Affinity"],
+    "image": "designs/IMG-20251115-WA0003.jpg",
+    "icon": "fa-mobile-alt",
+    "height": 200
+  },
+   {
+    "id": 8,
+    "title": "media design",
+    "category": "poster",
+    "year": "2024",
+    "description": "media design for a traveling blog.",
+    "tools": ["CorelDRAW", "Photoshop"],
+    "image": "designs/IMG-20251115-WA0004 (1).jpg",
+    "icon": "fa-newspaper",
+    "height": 320
+  },
 ]
