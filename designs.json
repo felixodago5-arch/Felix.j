@@ -141,7 +141,7 @@
     "image": "designs/nursery design.jpg",
     "icon": "fa-utensils",
     "height": 290
-  }
+  },
    {
     "id": 14,
     "title": "Flyer –  local restaurant",
@@ -152,7 +152,7 @@
     "image": "designs/promotional flyer.jpg",
     "icon": "fa-utensils",
     "height": 290
-  }
+  },
    {
     "id": 15,
     "title": "Instagram Campaign",
@@ -174,5 +174,5 @@
     "image": "designs/IMG-20251115-WA0004 (1).jpg",
     "icon": "fa-newspaper",
     "height": 320
-  },
+  }
 ]
